@@ -1,0 +1,71 @@
+
+
+body{
+    background-color: LightGray;
+    color: white;
+    text-align:center;
+    font-family: Verdana;
+    font-size: 11px;
+  }
+  h1{
+    text-align:center;
+    background-color: black
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .not-text{
+    color: white;
+  }
+  
+  .header{
+    border-collapse: collapse;
+  }
+  
+  .subt{
+    color: black;
+    text-align:left;
+  }
+  
+  .imgt{
+    background-color: LightGray;
+  }
+  
+  .textN{
+    text-align:justify;
+    margin: 15px;
+    padding: 15px;
+  }
+  .MoNOT{
+    background-color:tomato;
+    opacity: 0.7;
+  }
+  
+  .result{
+    width: 35%;
+  }
+  
+  #results{
+    background-image: url("https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/09/12/15683085057225.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+  }
+  
+  #calendar{
+    width: 80%;
+    text-align:center;
+  }
+  
+  table {
+    width: 100%;
+  
+  }
+  
+  tr{
+    background-color: Tomato
+  }
+  
+  
